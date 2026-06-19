@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Calcul dynamic Average/Calcul dynamic Average.vcxproj" Id="55e503ca-4405-4afa-b23b-bddcf9b2549b" />
+</Solution>
